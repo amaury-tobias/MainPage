@@ -9,7 +9,7 @@ module.exports = {
       "user": "amaurytobias",
       "host": "amaurytq.me",
       "ref": "origin/master",
-      "repo": "https://github.com/amaury-tobias/testpm2.git",
+      "repo": "https://github.com/amaury-tobias/MainPage.git",
       "path": "/home/amaurytobias/production/MainPage",
       "post-deploy": "npm install && pm2 startOrRestart ecosystem.config.js"
     },
